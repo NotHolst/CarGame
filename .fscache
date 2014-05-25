@@ -1,0 +1,12 @@
+::res://::1400738512
+car.png::ImageTexture::1399972199::
+carController.gd::GDScript::1400738467::
+cone.png::ImageTexture::1400067225::
+game.gd::GDScript::1400738467::
+game.scn::PackedScene::1400195352::
+icon.png::ImageTexture::1399972061::
+input_states.gd::GDScript::1400065214::
+osb_fire.png::ImageTexture::1392825648::
+osb_jump.png::ImageTexture::1392825648::
+osb_left.png::ImageTexture::1392825648::
+osb_right.png::ImageTexture::1392825648::
